@@ -1,0 +1,130 @@
+*{
+    margin:0;
+    padding: 0;
+    background: #2c2c2c;
+    font-family: 'Roboto', sans-serif;
+    }
+/* TABLE1  */
+.first {
+    border: 1px solid #6c6c6c;
+    margin-top: 150px;
+    margin-left: 70px;
+    width: 800px;
+    border-collapse: separate;
+    border-spacing: 0;
+    border-radius: 5px;
+    border-bottom: none;
+}
+ td , th {
+    width: 150px;
+    height: 40px;
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #6c6c6c;
+}
+.name1{
+    color: #ffffff;
+    font-weight: 400;
+    padding-left: 20px;
+
+}
+.icontriangle {
+    color: #ffffff;
+    padding-left:5px;
+}
+.date1 {
+    color: #f8f7f7;
+    font-weight: 400;
+    padding-left: 240px;
+}
+.file1 {
+    padding-left: 20px;
+    color : #cecbcbea;
+    font-size: 15px;
+    font-weight: 100;
+}
+.mins1 {
+    color: #6c6c6c;
+    padding-left: 240px;
+    font-size: 15px;
+}
+.drops1{
+    color: #6c6c6c;
+    text-align: right;
+    font-weight: 900;
+    font-size: 25px ;
+}
+/* Table 2 */
+.second{
+    border: 1px solid #6c6c6c;
+    margin-top: 50px;
+    margin-left: 70px;
+    margin-bottom: 50px;
+    width: 800px;
+    border-collapse: separate;
+    border-spacing: 0;
+    border-radius: 5px;
+    border-bottom: none;
+}
+.name2{
+    color: #ffffff;
+    font-weight: 400;
+}
+.minus {
+     padding-right: 15px;
+    padding-left: 10px;
+    color: rgb(8, 64, 248);
+}
+.icontriangle2 {
+    color: #ffffff;
+    padding-left: 15px;
+}
+.drops2 {
+    color: #ffffff;
+    text-align: right;
+    font-weight: 900;
+    font-size: 25px ;
+}
+.checkbox {
+    padding-left: 10px;
+}
+.file2 {
+    padding-left: 15px;
+    color : #cecbcbea;
+    font-size: 15px;
+}
+/* Table 3 */
+.third { 
+    border: 1px solid #6c6c6c;
+    margin-top: 50px;
+    margin-left: 70px;
+    margin-bottom: 150px;
+    width: 800px;
+    border-collapse: separate;
+    border-spacing: 0;
+    border-radius: 5px;
+    border-bottom: none;
+}
+.archive {
+    padding-right: 15px;
+    color: rgb(9, 70, 238);
+}
+.search {
+    background: rgb(68, 68, 68);
+    width: 200px;
+    height: 40px;
+    border-radius: 5px;
+    border:none;
+    padding-left: 35px;
+}
+form {
+    position: relative;
+}
+.lypa {
+    position: absolute;
+    border:none;
+    background-color: rgb(68, 68, 68) ;
+    top: 12px;
+    left: 15px;
+    color: grey;
+}
